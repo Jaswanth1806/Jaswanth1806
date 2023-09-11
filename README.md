@@ -1,9 +1,6 @@
-### Hi there 👋
-
-
 ### Hi there 👋, I am Jaswanth Reddy Angeri
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
+![I am GitHub Readme Generator's creator](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
