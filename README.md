@@ -35,7 +35,7 @@ I'm actively😥 looking for full-time opportunities😁 in software development
 
 <b>Short Intro for  me :</b>
 
-I am Rajashekar Reddy Kommula, a Software Engineering masters🎓 student at San Jose State University🏫. I enjoy delving into various fields and strive to learn as much as I can. Although it may appear a bit overwhelming❤️‍🔥 at times, I find it fascinating! 😁
+I'm Jaswanth Reddy Angeri, a Computer Science Masters🎓 student at University at Buffalo SUNY🏫. I enjoy delving into various fields and strive to learn as much as I can. Although it may appear a bit overwhelming❤️‍🔥 at times, I find it fascinating! 😁
 
 I am a programmer👨🏻‍💻 and more into distributed systems and full stack development but yeah, can't miss problem solving❓⚠️, the best part of being a programmer.
 
