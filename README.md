@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **rajashekharredde@gmail.com**
+- 📫 How to reach me **jaswanhtreddyangeri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FkqqBq8SC_4dBfnM5mSvVMOP85BDntv8/view?usp=sharing](https://drive.google.com/file/d/1FkqqBq8SC_4dBfnM5mSvVMOP85BDntv8/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FkqqBq8SC_4dBfnM5mSvVMOP85BDntv8/view?usp=sharing](https://drive.google.com/file/d/1UQzzkM6QfK8y-hgHK6J4bRq8Gmn26u0K/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
