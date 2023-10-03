@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jaswanth-reddy-angerisch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajashekar reddy kommula" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaswanth-reddy-angeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajashekar reddy kommula" height="30" width="40" /></a>
 <a href="https://leetcode.com/KLU_180030528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunnyhithredde" height="30" width="40" /></a>
 </p>
 
