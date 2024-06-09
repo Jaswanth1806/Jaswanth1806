@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaswanhtreddyangeri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FkqqBq8SC_4dBfnM5mSvVMOP85BDntv8/view?usp=sharing](https://drive.google.com/file/d/1UQzzkM6QfK8y-hgHK6J4bRq8Gmn26u0K/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rvhjG6E0iXrotkJmuphmyrhhtS41JsnH/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
