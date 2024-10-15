@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **jaswanhtreddyangeri@gmail.com**
+- 📫 How to reach me **j**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rvhjG6E0iXrotkJmuphmyrhhtS41JsnH/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rvhjG6E0iXrotkJmuphmyrhhtS41Js)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
