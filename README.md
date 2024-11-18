@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)
-<h1 align="center">Hi, I'm Jaswanth Reddy Angeri 🔥😎</h1>
+<h1 align="center">Hi, I'm Reddy 🔥😎</h1>
 
 <h3 align="center">I am a passionate guy who loves to build applications and apply algorithms to solve real-world problems.</h3>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **j**
+- 📫 How to reach me ****
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rvhjG6E0iXrotkJmuphmyrhhtS41Js)
 
